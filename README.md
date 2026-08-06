@@ -1,6 +1,6 @@
-# 3D Kaplan & Deriaz Hydro Turbine Designer
+# KaplanDeriaz3D Hydro Turbine Designer
 
-3D Kaplan & Deriaz Hydro Turbine Designer is an engineering software package developed in both MATLAB and Python for the parametric design, geometric reconstruction, and hydrodynamic analysis of axial-flow (Kaplan) and diagonal-flow (Deriaz) hydraulic turbines.
+KaplanDeriaz3D Hydro Turbine Designer is an engineering software package developed in both MATLAB and Python for the parametric design, geometric reconstruction, and hydrodynamic analysis of axial-flow (Kaplan) and diagonal-flow (Deriaz) hydraulic turbines.
 
 ## Features
 
