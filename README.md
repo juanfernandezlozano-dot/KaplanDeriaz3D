@@ -14,4 +14,4 @@ KaplanDeriaz3D Hydro Turbine Designer is an engineering software package develop
 
 This project was developed as part of a Master's Thesis (TFM) in Industrial Engineering at Universidad Carlos III de Madrid (UC3M).
 
-KaplanDeriaz3D.mlappinstall and KaplanDeriaz3D1_2.m correspond to the MATLAB application installer and source code, respectively, for the KaplanDeriaz3D software. kaplan_deriaz_Python_app.py is the Python implementation (port) of the same application.
+KaplanDeriaz3D.mlappinstall and KaplanDeriaz3D1_2.m correspond to the MATLAB application installer and source code, respectively, for the KaplanDeriaz3D software. KaplanDeriaz3D.exe is a standalone executable version that can be run without requiring MATLAB or a MATLAB license. kaplan_deriaz_Python_app.py is the Python implementation (port) of the same application.
